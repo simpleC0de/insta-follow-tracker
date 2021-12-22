@@ -2,7 +2,7 @@
 Tracks who the specified accounts follows and who is following 
 
 # Installation
-Go to this page and install the package: https://github.com/adw0rd/instagrapi\
+Go to this page and install the package: https://github.com/adw0rd/instagrapi \
 Or use: python -m pip install instagrapi
 
 # Configuration

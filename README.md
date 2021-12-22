@@ -6,9 +6,8 @@ Go to this page and install the package: https://github.com/adw0rd/instagrapi \
 Or use: python -m pip install instagrapi
 
 # Configuration
-Open the file\
-Enter your personal account credentials (can be a fake/alt account)\
-Enter the "User to (be) Observed"
+You can change the name of the log file in the main.py\
+Also you can change the interval in which the followers are getting checked\
 
 # Using the script
 After successfully configuring it use:\
